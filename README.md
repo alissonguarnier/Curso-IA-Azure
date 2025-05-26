@@ -46,7 +46,7 @@ azure-speech-language-lab/
 ├── anotacoes/
 │ └── insights.md
 ├── images/
-│ └── exemplos.png (opcional)
+│ └── exemplos.png 
 ```
 
 
