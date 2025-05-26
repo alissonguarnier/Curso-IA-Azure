@@ -65,4 +65,4 @@ Este desafio foi uma excelente oportunidade para colocar em prática os conhecim
 
 ---
 
-**Desenvolvido por Alisson Guarnier | Desafio da DIO em parceria com Microsoft**
+**Desenvolvido por Alisson Guarnier | Desafio da DIO em parceria com Suzano**
